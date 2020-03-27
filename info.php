@@ -1,4 +1,5 @@
 <?php
-echo "xiaoxu";
 
+echo "xiaoxu";
+123;
 ?>
